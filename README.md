@@ -8,16 +8,16 @@
 
 ## About me 
 <p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
-<p align="center" Passionate about solving real world problems with the help of Data </p>
+<p align="center" Passionate about solving real world problems with the help of AI </p>
 
 
 <img align="top" alt="GIF" src="<iframe src="https://tenor.com/view/animation-cartoons-toons-danny-phantom-danny-fenton-gif-14827989" width="400px" />
 
 
-- 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **NLP**
-- 👯 I’m open to collaborate with others towards any Machine learning Projects.
-- 🥅 Goals: To solve intersting real world problems with data out there.
+-  I’m currently working on **Machine Learning**
+-  I’m currently learning **NLP with Deep Learning**
+-  I’m open to collaborate with others towards any Machine learning Projects.
+-  Goals: To solve intersting real world problems with data out there.
 
 
 ### Known Languages and Tools:

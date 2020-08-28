@@ -1,7 +1,18 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shareef Shaik <br <h3 align="center">(A Passionate Data Scientist ) </h3></h1>
 
-<!--
-**Shareef-shaik/Shareef-shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	
+[![Github](https://img.shields.io/github/followers/ved3prakas?label=Follow&style=social)](https://github.com/Shareef-shaik)
+[![Linkedin](https://img.shields.io/badge/-Ved%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
+
+
+## About me 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ved3prakas" alt="blurred-machine" /> </p>
+
+
+<img align="top" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
 
 
 - 🔭 I’m currently working on **Machine Learning**

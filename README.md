@@ -3,13 +3,11 @@
 
 	
 [![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shareef-shaik)
-[![Linkedin](https://img.shields.io/badge/-Shareef Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
+[![Linkedin](https://img.shields.io/badge/-Shareef%20Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
 
 
 ## About me 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ved3prakas" alt="blurred-machine" /> </p>
 
 
 <img align="top" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />

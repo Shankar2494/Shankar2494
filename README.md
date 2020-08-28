@@ -3,13 +3,12 @@
 
 #### Hi there 👋 
 #### This is Shareef. Welcome to my profile!
+<img align="top" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400" height="400" />
 ##
 
 ## About me 
 <p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
 <p align="center" Passionate about solving real world problems with the help of AI </p>
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 -  I’m currently working on **Machine Learning**
 -  I’m currently learning **NLP with Deep Learning**

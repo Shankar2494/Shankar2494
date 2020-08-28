@@ -3,9 +3,7 @@
 
 ### Hi there 👋 
 ### This is Shareef. Welcome to my profile!
-
 <br />
-
 ## About me 
 <p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
 <p align="center" Passionate about solving real world problems with the help of AI </p>

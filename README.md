@@ -11,7 +11,7 @@
 <p align="center" Passionate about solving real world problems with the help of Data </p>
 
 
-<img align="top" alt="GIF" src="<iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="400px" />
+<img align="top" alt="GIF" src="<iframe src="http://gph.is/XJGM2F" width="400px" />
 
 
 - 🔭 I’m currently working on **Machine Learning**

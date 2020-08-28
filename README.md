@@ -3,10 +3,6 @@
 <!--
 **Shareef-shaik/Shareef-shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<h1 align="center">Hi 👋, I'm Shareef</h1>
-<h2 align="center">An Aspiring Data scientist</h2>
-
 
 - 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **NLP**

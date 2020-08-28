@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shareef Shaik <br <h3 align="center">(A Passionate Data Scientist ) </h3></h1>
 
 	
-[![Github](https://img.shields.io/github/followers/ved3prakas?label=Follow&style=social)](https://github.com/Shareef-shaik)
-[![Linkedin](https://img.shields.io/badge/-Ved%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
+[![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shareef-shaik)
+[![Linkedin](https://img.shields.io/badge/-Shareef Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
 
 
 ## About me 

@@ -9,7 +9,7 @@
 <p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
 <p align="center" Passionate about solving real world problems with the help of AI </p>
 
-![Alt Text](https://tenor.com/banBh.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 -  I’m currently working on **Machine Learning**
 -  I’m currently learning **NLP with Deep Learning**

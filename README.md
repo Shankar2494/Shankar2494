@@ -11,7 +11,7 @@
 <p align="center" Passionate about solving real world problems with the help of Data </p>
 
 
-<img align="top" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
+<img align="top" alt="GIF" src="<iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p>" width="400px" />
 
 
 - 🔭 I’m currently working on **Machine Learning**

@@ -20,7 +20,7 @@
 
 <br />
 
-### Known Languages and Tools:
+## Known Languages and Tools:
 <br />
 <p align="left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -43,7 +43,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Know What Employers are expecting for a Data Scientist Role in-2020](https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4)
 - [Sentiment Analysis — ML project from Scratch to Production (Web Application)](https://medium.com/towards-artificial-intelligence/sentiment-analysis-from-scratch-to-production-web-api-3382f19748e8)
@@ -56,8 +56,7 @@
 
 <br />
 
-### Connect with me through:
-
+## Connect with me through:
 <a href="https://www.linkedin.com/in/shareef-shaik-22738310b/"> 
   <img align="left" alt="Linkedin Venumadhav" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> 
 </a>

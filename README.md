@@ -3,7 +3,7 @@
 
 #### Hi there 👋 
 #### This is Shareef. Welcome to my profile!
-<img align="top" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="100" height="100" />
+<img align="top" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="200" height="200" />
 
 ##
 

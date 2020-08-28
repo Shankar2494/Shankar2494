@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Shareef Shaik <br <h3 align="center">(A Passionate Data Scientist ) </h3></h1>
+### Welcome to my profile
 
 	
 [![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shareef-shaik)
@@ -7,7 +7,8 @@
 
 
 ## About me 
-
+<p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
+<p align="center" Passionate about solving real world problems with the help of Data </p>
 
 
 <img align="top" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />

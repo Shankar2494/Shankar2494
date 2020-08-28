@@ -9,8 +9,6 @@
 <p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
 <p align="center" Passionate about solving real world problems with the help of AI </p>
 
-
-<img align="top" alt="GIF" src="<iframe src="https://tenor.com/view/animation-cartoons-toons-danny-phantom-danny-fenton-gif-14827989" width="400px" />
 ![Alt Text](https://tenor.com/banBh.gif)
 
 -  I’m currently working on **Machine Learning**

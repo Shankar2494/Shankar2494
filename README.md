@@ -1,8 +1,8 @@
 [![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shareef-shaik)
 [![Linkedin](https://img.shields.io/badge/-Shareef%20Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
 
-#### Hi there 👋 
-#### This is Shareef. Welcome to my profile!
+### Hi there 👋 
+### This is Shareef. Welcome to my profile!
 <img align="top" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="200" height="200" />
 
 ##

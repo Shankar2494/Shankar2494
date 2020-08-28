@@ -1,10 +1,10 @@
-### Hi there 👋 
-### This is Shareef. Welcome to my profile!
-
-	
 [![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shareef-shaik)
 [![Linkedin](https://img.shields.io/badge/-Shareef%20Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
 
+### Hi there 👋 
+### This is Shareef. Welcome to my profile!
+
+<br />
 
 ## About me 
 <p align="center" Hi 👋, I'm Shareef Shaik, An Aspiring Data scientist</p>
@@ -19,6 +19,7 @@
 -  I’m open to collaborate with others towards any Machine learning Projects.
 -  Goals: To solve intersting real world problems with data out there.
 
+<br />
 
 ### Known Languages and Tools:
 
@@ -33,9 +34,13 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+<br />
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shareef-shaik&layout=compact&hide=html&theme=tokyonight&line_height=27" alt="Shareef-shaik"/>
 </p>
+
+<br />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

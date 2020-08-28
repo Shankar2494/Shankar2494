@@ -19,18 +19,6 @@
 - 👯 I’m open to collaborate with others towards any Machine learning Projects.
 - 🥅 Goals: To solve intersting real world problems with data out there.
 
-### Connect with me through:
-
-<a href="https://www.linkedin.com/in/shareef-shaik-22738310b/"> 
-  <img align="left" alt="Linkedin Venumadhav" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> 
-</a>
-<a href="https://medium.com/@shareefshaik1375">
-  <img align="left" alt="Medium Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-</a>
-<a href="https://fb.com/">
-  <img align="left" alt="FB Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="venmad" />
-</a>
-<br />
 
 ### Known Languages and Tools:
 
@@ -60,6 +48,19 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Shareef-shaik&show_icons=true&theme=tokyonight" alt="Shareef-shaik" />
 </p>
 
+<br />
+
+### Connect with me through:
+
+<a href="https://www.linkedin.com/in/shareef-shaik-22738310b/"> 
+  <img align="left" alt="Linkedin Venumadhav" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> 
+</a>
+<a href="https://medium.com/@shareefshaik1375">
+  <img align="left" alt="Medium Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+<a href="https://fb.com/">
+  <img align="left" alt="FB Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="venmad" />
+</a>
 <br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shareef-shaik" alt="Shareef-shaik" /> </p>

@@ -12,7 +12,7 @@
 -  I’m currently working on **Machine Learning**
 -  I’m currently learning **NLP with Deep Learning**
 -  I’m open to collaborate with others towards any Machine learning Projects.
--  Passionate about solve intersting real world problems with the data out there.
+-  Passionate about solving intersting real world problems with the data out there.
 
 <br />
 

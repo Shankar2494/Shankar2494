@@ -6,14 +6,14 @@
 <img align="top" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="200" height="200" />
 
 ##
-
+<!--
 ## About me 
 
--  I’m currently working on **Machine Learning**
+<!-- -  I’m currently working on **Machine Learning**
 -  I’m currently learning **NLP with Deep Learning**
 -  I’m open to collaborate with others towards any Machine learning Projects.
 -  Passionate about solving intersting real world problems with the data out there.
-
+-->
 <br />
 
 ## Known Languages and Tools:

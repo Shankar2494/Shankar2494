@@ -53,7 +53,7 @@
 <br />
 
 ## Connect with me through:
-<a href="https://www.linkedin.com/in/shareef-shaik-22738310b/"> 
+<a href="https://www.linkedin.com/in/shankar-narayanan-9b6b9580/"> 
   <img align="left" alt="Linkedin Venumadhav" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> 
 </a>
 <a href="https://medium.com/@shareefshaik1375">

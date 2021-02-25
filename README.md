@@ -1,5 +1,5 @@
 [![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shankar2494)
-[![Linkedin](https://img.shields.io/badge/-Shareef%20Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shareef-shaik-22738310b/)
+[![Linkedin](https://img.shields.io/badge/-Shareef%20Shaik-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shareef-shaik-22738310b/)](https://www.linkedin.com/in/shankar-narayanan-9b6b9580/)
 
 ### Hi there 👋 
 ### This is Shankar. Welcome to my profile!

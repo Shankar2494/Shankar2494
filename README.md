@@ -59,7 +59,7 @@
 <a href="https://medium.com/@shareefshaik1375">
   <img align="left" alt="Medium Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
-<a href="https://fb.com/">
+<a href="https://www.facebook.com/iamshankarnarayanan/">
   <img align="left" alt="FB Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="venmad" />
 </a>
 <br />

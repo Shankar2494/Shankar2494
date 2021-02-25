@@ -23,6 +23,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  
 </p>
 <!--
 <p>

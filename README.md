@@ -56,6 +56,7 @@
 <a href="https://www.linkedin.com/in/shankar-narayanan-9b6b9580/"> 
   <img align="left" alt="Linkedin Venumadhav" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> 
 </a>
+<!--
 <a href="https://medium.com/@shareefshaik1375">
   <img align="left" alt="Medium Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
@@ -63,5 +64,5 @@
   <img align="left" alt="FB Venu" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="venmad" />
 </a>
 <br />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shareef-shaik" alt="Shareef-shaik" /> </p>
+-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shankar2494" alt="Shankar2494" /> </p>

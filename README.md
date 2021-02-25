@@ -39,15 +39,16 @@
 
 <br />
 
+<!--
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Know What Employers are expecting for a Data Scientist Role in-2020](https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4)
 - [Sentiment Analysis — ML project from Scratch to Production (Web Application)](https://medium.com/towards-artificial-intelligence/sentiment-analysis-from-scratch-to-production-web-api-3382f19748e8)
-
+-->
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=Shareef-shaik&show_icons=true&theme=tokyonight" alt="Shareef-shaik" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Shankar2494&show_icons=true&theme=tokyonight" alt="Shankar2494" />
 </p>
 
 <br />

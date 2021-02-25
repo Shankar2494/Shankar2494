@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/followers/Shareef-shaik?label=Follow&style=social)](https://github.com/Shankar2494)
+[![Github](https://img.shields.io/github/followers/Shankar2494?label=Follow&style=social)](https://github.com/Shankar2494)
 [![Linkedin](https://img.shields.io/badge/-Shankar%20Narayanan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shankar-narayanan-9b6b9580/)](https://www.linkedin.com/in/shankar-narayanan-9b6b9580/)
 
 ### Hi there 👋 
@@ -34,7 +34,7 @@
 <br />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shareef-shaik&layout=compact&hide=html&theme=tokyonight&line_height=27" alt="Shareef-shaik"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar2494&layout=compact&hide=html&theme=tokyonight&line_height=27" alt="Shankar2494"/>
 </p>
 
 <br />
